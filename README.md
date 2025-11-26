@@ -1,7 +1,7 @@
-#ExpNo:10 Implementation of Classical Planning Algorithm 
+# ExpNo:10 Implementation of Classical Planning Algorithm 
 
-NAME:  
-REG NO:
+## NAME:  K DEEKSHITHA
+## REG NO: 2305002005
 ## Algorithm or Steps Involved:
 Define the initial state
 Define the goal state
@@ -94,7 +94,8 @@ print(plan)
 ```
 
 ### OUTPUT
-441153532-c6fe5f1d-478a-4654-8936-3246d274c8b0
+![WhatsApp Image 2025-11-26 at 16 03 29_d4789625](https://github.com/user-attachments/assets/23fbbc9e-cd2b-4543-96b5-2afbb8db0751)
+
 
 RESULT
 Thus the program to implement Classical Planning Algorithm has been executed successfully.
